@@ -1,0 +1,35 @@
+.header{
+    height: 40px;
+    background-color: rgb(138, 154, 91);   
+    flex-wrap: wrap;
+}
+
+.fa-brands{
+margin-left: 20px;
+}
+
+p{
+color: white;
+display: inline-block;
+margin-left:25px;
+}
+.icons{
+display: flex;
+justify-content: flex-end;
+margin-top: -32px;
+margin-left: 30px;
+padding-right: 20px;
+}
+.jungle-image{
+ background-image:url(images/al.webp);
+ background-size: cover;  
+height: 650px;
+background-repeat: no-repeat;
+background-position: center;
+}
+.jungle-text{
+    color: white;
+    font-size: 70px;
+    font-family:cursive;
+    text-align: right;
+}
